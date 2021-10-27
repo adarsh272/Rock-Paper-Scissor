@@ -8,7 +8,7 @@ After all the 5 rounds are completed the program adds up the scores of the indiv
 It displays them onto the screen with an alert message
 
 Further Developments:
-1. I will be making this game as part of a webpage where many such games will be present
+1. I will be making this game a part of a webpage where many such games will be present
 2. It will have a subtle user interface 
 
 Wish me luck!
